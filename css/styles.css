@@ -1,11 +1,11 @@
-:root {
+/* :root {
   --first-text-color: #212121;
   --secondary-text-color: #757575;
   --white-text-color: #ffffff;
   --blue-text-color: #2196f3;
 }
 
-/* ОБНУЛЯЄМО СТИЛІ */
+
 h1,
 h2,
 h3,
@@ -18,7 +18,7 @@ p
 }
 
 
-/* HEADER FOR INDEX AND PORTFOLIO */
+
 
 .page-body {
   background-color: var(--white-text-color);
@@ -47,7 +47,7 @@ header > .container {
   display: flex;
 }
 
-/* WebStudio */
+
 .logo {
   font-family: 'raleway';
   font-weight: 700;
@@ -114,7 +114,7 @@ header > .container {
 .header-link.current {
   color: var(--blue-text-color);
 } 
-/* ефект поточної сторінки */
+
 .current::after {
   content: '';
   position: absolute;
@@ -225,7 +225,7 @@ header > .container {
   transition:drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-/* модальное окно с кнопкой */
+
 .backdrop {
   position: fixed;
   top: 0;
@@ -296,7 +296,7 @@ fill: #2196F3;
 .modal-close-button:focus .icon-close {
   fill: #2196F3;
 }
-/* ОСОБЕННОСТИ INDEX*/
+
 .section-padding-top {
   padding-top: 94px;
 }
@@ -351,7 +351,7 @@ justify-content: center;
   color: var(--secondary-text-color);
 }
 
-/* ЧЕМ МЫ ЗАНИМАЕМСЯ */
+
 
 .work-title {
   font-weight: 700;
@@ -397,7 +397,7 @@ margin-right: -30px;
   align-self: center;
 }
 
-/* НАША КОМАНДА */
+
 .worker-container {
   padding-top: 94px;
   padding-bottom: 94px;
@@ -548,7 +548,6 @@ color: #2196f3;
     fill: #2196f3;
 }
 
-/* ФУТЕР */
 
 .flex-container {
   display: flex;
@@ -685,9 +684,6 @@ justify-content: center;
 }
 
 
-/* ПОРТФОЛІО */
-
-/* приховуємо заголовок */
 .btn-header {
   position: absolute;
   width: 1px;
@@ -1010,6 +1006,7 @@ textarea {
 .check-icon {
   fill: transparent;
 }
+
 .text-span {
   font-weight: 400;
   font-size: 14px;
@@ -1017,6 +1014,7 @@ textarea {
   letter-spacing: 0.03em;
   color: #757575;
 }
+
 .visuality-hiden {
   position: absolute;
   white-space: nowrap;
@@ -1029,7 +1027,6 @@ textarea {
   clip-path: inset(50%);
   margin: -1px;
 }
-
 
 .modal-button-input {
   display: block;
@@ -1049,4 +1046,4 @@ textarea {
   line-height: 1.87;
   align-items: center;
   text-align: center;
-}
+} */
