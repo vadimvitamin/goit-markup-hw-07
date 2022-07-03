@@ -20,11 +20,11 @@ p
 
 
 
-.page-body {
+/* .page-body {
   background-color: var(--white-text-color);
   font-family: 'Roboto';
   color: var(--first-text-color);
-}
+} */
 
 .page-header {
   background-color: var(--white-text-color);
