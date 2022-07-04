@@ -1,9 +1,14 @@
-@import './base/reset';
+// Layout
+@import './layout/header';
 
-@import './base/common'
-
+// Utils
 @import './utils/vars';
+@import './utils/hidden';
 
-@import './components/container';
+// Base
+@import './base/reset';
+@import './base/container';
+@import './base/common';
 
-@import './header';
+// Components
+@import './components/button';

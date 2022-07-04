@@ -26,13 +26,13 @@ p
   color: var(--first-text-color);
 } */
 
-.page-header {
+/* .page-header {
   background-color: var(--white-text-color);
 }
 
 header > .container {
   display: flex;
-}
+} */
 
 /* .container {
   width: 1200px;
@@ -42,10 +42,10 @@ header > .container {
   padding-right: 15px;
 } */
 
-.site-nav {
+/* .site-nav {
   align-items: center;
   display: flex;
-}
+} */
 
 
 .logo {
@@ -74,7 +74,7 @@ header > .container {
   color: var(--white-text-color);
 }
 
-.link {
+/* .link {
   text-decoration: none;
 }
 
@@ -82,7 +82,7 @@ header > .container {
   padding: 0;
   margin: 0;
   list-style: none;
-}
+} */
 
 .nav-list {
   margin-left: 93px;
@@ -199,7 +199,7 @@ header > .container {
   color: var(--white-text-color);
 }
 
-.buttons {
+/* .buttons {
   background-color: var(--blue-text-color);
   font-family: 'Roboto';
   font-weight: 700;
@@ -224,7 +224,7 @@ header > .container {
   color: #ffffff;
   transition:drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
+} */
 
 .backdrop {
   position: fixed;
@@ -297,12 +297,12 @@ fill: #2196F3;
   fill: #2196F3;
 }
 
-.section-padding-top {
+/* .section-padding-top {
   padding-top: 94px;
 }
 .section {
   padding-bottom: 94px;
-}
+} */
 
 .general-list {
   display: flex;
@@ -684,7 +684,7 @@ justify-content: center;
 }
 
 
-.btn-header {
+/* .btn-header {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -695,14 +695,14 @@ justify-content: center;
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
-}
+} */
 
 .card {
   justify-content: center;
   padding-top: 94px;
 }
 
-.filters-button {
+/* .filters-button {
   justify-content: center;
   margin-bottom: 50px;
   display: flex;
@@ -730,9 +730,9 @@ justify-content: center;
 .filters:focus {
   background-color: #2196f3;
   color: #ffffff;
-}
+} */
 
-.btn-one {
+/* .btn-one {
   width: 73px;
   height: 38px;
 }
@@ -763,7 +763,7 @@ color: #FFFFFF;
   margin-left: 8px;
   width: 130px;
   height: 38px;
-}
+} */
 .specifics-projects {
   margin-left: -30px;
   margin-top: -30px;
@@ -788,11 +788,11 @@ color: #FFFFFF;
   position: relative;
   overflow: hidden;
 }
-img {
+/* img {
   display: block;
   max-width: 100%;
   height: auto;
-}
+} */
 
 .open-text {
   position: absolute;
@@ -850,7 +850,7 @@ transform: translateY(0%);
   padding: 0 16px;
   outline: transparent;
 }
-.send-button {
+/* .send-button {
   display: inline-flex;
   align-items: center;
   width: 200px;
@@ -867,12 +867,12 @@ transform: translateY(0%);
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
   border: transparent;
-}
+} */
 
-.icon-send {
+/* .icon-send {
   margin-left: 10px;
   fill: #ffffff;
-}
+} */
 
 .footer-title-send{
   margin-bottom: 20px;

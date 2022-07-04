@@ -71,3 +71,14 @@
     border-bottom: 1px solid #ECECEC;
     ;
   }
+  .page-header {
+    background-color: var(--white-text-color);
+  }
+  
+  header > .container {
+    display: flex;
+  }
+  .site-nav {
+    align-items: center;
+    display: flex;
+  }
