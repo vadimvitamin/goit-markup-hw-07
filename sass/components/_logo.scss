@@ -1,4 +1,4 @@
-.logo {
+.site-nav__logo {
     font-family: 'raleway';
     font-weight: 700;
     font-size: 26px;
@@ -12,14 +12,14 @@
     top: 24px;
   }
   
-  .bluetext {
+  .site-nav__blue {
     color: var(--blue-text-color);
   }
   
-  .blacktext {
+  .site-nav__black {
     color: var(--first-text-color);
   }
   
-  .whitetext {
+  .site-nav__white {
     color: var(--white-text-color);
   }
