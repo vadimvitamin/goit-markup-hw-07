@@ -1,5 +1,6 @@
 // Layout
 @import './layout/header';
+@import './layout/hero';
 
 // Utils
 @import './utils/vars';
@@ -12,3 +13,10 @@
 
 // Components
 @import './components/button';
+@import './components/logo';
+@import './components/social';
+@import './components/clients';
+@import './components/title';
+@import './components/cards';
+@import './components/modal';
+@import './components/footer';

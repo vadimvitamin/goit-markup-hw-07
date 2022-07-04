@@ -82,3 +82,11 @@
     align-items: center;
     display: flex;
   }
+  .nav-list {
+    margin-left: 93px;
+    display: flex;
+  }
+  
+  .navigation:not(:last-child) {
+    margin-right: 50px;
+  }
